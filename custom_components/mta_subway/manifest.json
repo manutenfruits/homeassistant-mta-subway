@@ -1,0 +1,9 @@
+{
+  "domain": "mta_subway",
+  "name": "mta_subway",
+  "documentation": "",
+  "dependencies": [],
+  "codeowners": ["@manutenfruits"],
+  "requirements": [],
+  "homeassistant": "0.95.4"
+}
